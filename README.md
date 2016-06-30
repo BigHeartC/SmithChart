@@ -1,5 +1,5 @@
 # SmithChart
-use Smith Chart to calculate VSWR,Reflection coefficient and normalization input impedance by normalization load impedance.  
+Use Smith Chart to calculate VSWR,Reflection coefficient and normalization input impedance by normalization load impedance.  
 
 使用史密斯圆图，通过输入归一化负载阻抗计算出计算驻波比和反射系数以及归一化输入阻抗，同时绘出相应图形。
 
