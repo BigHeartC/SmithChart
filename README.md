@@ -16,5 +16,6 @@ Android 3.0 以上
 ![l_lamda_rate](https://github.com/BigHeartC/SmithChart/blob/master/l_lamda_rate.png)
 
 ## License
-Copyright (C) 2015 BigHeart **Email**: BigHeart_C@163.com  
+Copyright (C) 2015 BigHeart **Email**: BigHeart_C@163.com    
+
 Licensed under the Apache License, Version 2.0 (the "License");
