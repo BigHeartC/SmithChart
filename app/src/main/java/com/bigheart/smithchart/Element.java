@@ -77,7 +77,7 @@ public class Element {
     }
 
     /**
-     * （rotateX，rotateY）沿着（baseX，base）旋转 rotareAngel角度
+     * （rotateX，rotateY）沿着（baseX，base）顺时针旋转 rotareAngel角度
      *
      * @param rotateX
      * @param rotateY
